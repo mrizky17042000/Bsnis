@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "196166242968",
+    "firebase_url": "https://bsnis-fix-f0e5d.firebaseio.com",
+    "project_id": "bsnis-fix-f0e5d",
+    "storage_bucket": "bsnis-fix-f0e5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196166242968:android:6322d6e49b3a286b7636ed",
+        "android_client_info": {
+          "package_name": "com.tb.bsnis_fix"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196166242968-hilbc6lv71dng0nql3srbr9nvkl4dlo2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_vyXZLli1ki_OJbzLizRDvqNnmzUfVFs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196166242968-hilbc6lv71dng0nql3srbr9nvkl4dlo2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
