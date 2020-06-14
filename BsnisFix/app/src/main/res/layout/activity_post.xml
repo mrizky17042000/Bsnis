@@ -89,13 +89,12 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:layout_marginTop="20dp"
-            android:fontFamily="@font/rubik_regular"
             android:textColor="@color/colorPrimaryDark"
             android:background="@drawable/textbox"
             android:hint="Type here!"
             android:textColorHint="@color/colorPrimarySecond"
             android:maxLines="5"
-            android:padding="50dp"
+            android:padding="15dp"
             android:id="@+id/description"/>
 
     </LinearLayout>

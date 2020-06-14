@@ -21,6 +21,7 @@
         android:textColorHint="@color/colorPrimarySecond"
         android:inputType="number"
         android:padding="14dp"
+        android:textColor="@color/colorPrimaryDark"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintHorizontal_bias="1.0"

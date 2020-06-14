@@ -238,7 +238,7 @@ public class OTPFragment extends Fragment {
                                         map.put("username", username.toLowerCase());
                                         map.put("fullname", "");
                                         map.put("bio", "");
-                                        map.put("imageurl", "https://firebasestorage.googleapis.com/v0/b/instagram7.appspot.com/o/profileimage.jpg?alt=media&token=267b6175-7b56-4c82-91cf-702a167f3b9c");
+                                        map.put("imageurl", "https://firebasestorage.googleapis.com/v0/b/bsnis-fix-f0e5d.appspot.com/o/profileimage.png?alt=media&token=3f7550df-c998-4645-baa5-e6db40c10863");
 
 
                                         reference.setValue(map).addOnCompleteListener(new OnCompleteListener<Void>() {
